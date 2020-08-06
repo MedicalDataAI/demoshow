@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# demoshow
-AI code demo
-=======
-# MetastasisPrediction_DeepLearning
+# ThyroidUS AI
+AI code demo, paper name
 Lymph node metastasis prediction from primary breast cancer ultrasound images using deep learning
 
 If you use this code in your research, consider citing:
@@ -57,7 +54,5 @@ sudo pip install -r requirements.txt
 ```Bash
    python3 ensemble_bagging.py
 ```
-Prompt for input the risk of Clinical, BMUS and CDFI from clinical_lr.py, bmus_cnn.py and cdfi_cnn.py.
+    Prompt for input the risk of Clinical, BMUS and CDFI from clinical_lr.py, bmus_cnn.py and cdfi_cnn.py.
 
-
->>>>>>> add codes
