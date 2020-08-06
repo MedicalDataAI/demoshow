@@ -31,6 +31,9 @@ sudo pip install -r requirements.txt
 2. download the weight file of the trained model into the folder of "./models"
 ```Bash
    wget 'https://drive.google.com/file/d/1KWAmU7hbp-byJ9tM8Mh6_I9_85mOTYsD/view?usp=sharing'
+   wget 'https://drive.google.com/file/d/1KWAmU7hbp-byJ9tM8Mh6_I9_85mOTYsD/view?usp=sharing'
+   wget 'https://drive.google.com/file/d/1KWAmU7hbp-byJ9tM8Mh6_I9_85mOTYsD/view?usp=sharing'
+   wget 'https://drive.google.com/file/d/1KWAmU7hbp-byJ9tM8Mh6_I9_85mOTYsD/view?usp=sharing'
 ```
 
 4. use the trained model to predict the data of Clinical, BMUS, CDFI (NOTE: to replace the parameter of path with proper location of model file)
