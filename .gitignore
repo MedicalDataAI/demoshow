@@ -1,4 +1,4 @@
-models/*
-res/*
--models
--res
+models/*.*
+res/*.*
+!models
+!res
