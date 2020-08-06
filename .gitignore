@@ -1,4 +1,3 @@
-models/*.*
-res/*.*
-!models
-!res
+models/*.h5
+models/*.pkl
+res/*.csv
