@@ -50,9 +50,8 @@ sudo pip install -r requirements.txt
    python3 cdfi_cnn.py
 ```
 
-- Predict ensemble data
+- Predict ensemble data (Prompt for input the risk of Clinical, BMUS and CDFI from clinical_lr.py, bmus_cnn.py and cdfi_cnn.py.)
 ```Bash
    python3 ensemble_bagging.py
 ```
-    Prompt for input the risk of Clinical, BMUS and CDFI from clinical_lr.py, bmus_cnn.py and cdfi_cnn.py.
 
